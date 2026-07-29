@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">First year computer science student at Loughborough University</p>
+<p align="left">Second year computer science student at Loughborough University</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning fundamentals of programming<br>🎯 Goals: Become a full stack developer<br>🎲 Fun fact: Aside from computer science, I love art and painting!</p>
+<p align="left">📚 Currently exploring data structures and algorithms!<br>🎯 Goals: Become a full stack developer<br>🎲 Fun fact: Aside from computer science, I love art and painting!</p>
 
 ###
 
