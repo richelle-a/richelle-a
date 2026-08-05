@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Richelle</h1>
 <h1 data-importer="text" align="left">Hey 👋, I'm Richelle</h1>
 
 ###
