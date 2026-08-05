@@ -1,17 +1,10 @@
 <h1 align="center">Hi 👋, I'm Richelle</h1>
-<h3 align="center">Aspiring software engineer</h3>
+<h3 align="left">Aspiring software engineer</h3>
 
-- 🔭 I’m currently working on [lecture note linker](https://github.com/richelle-a/lecture-note-linker)
-
+- 🔭 I’m currently working on [Lecture Note Linker](https://github.com/richelle-a/lecture-note-linker)
 - 🌱 I’m currently learning **Unit Testing (JUnit, pytest)**
-
-- 👨‍💻 All of my projects are available at [https://github.com/richelle-a](https://github.com/richelle-a)
-
-- 📫 How to reach me **richelleach7@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1cuAT70knwkjdkvlVje9WnG3zAgvUL_Nu/view?usp=sharing](https://drive.google.com/file/d/1cuAT70knwkjdkvlVje9WnG3zAgvUL_Nu/view?usp=sharing)
-
-- ⚡ Fun fact **I enjoy painting and rollerskating :)**
+- 📩 Reach me at **richelleach7@gmail.com**
+- 📝 Learn about my experiences: [View CV](https://drive.google.com/file/d/1cuAT70knwkjdkvlVje9WnG3zAgvUL_Nu/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
